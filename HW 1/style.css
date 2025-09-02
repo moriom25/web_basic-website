@@ -1,0 +1,95 @@
+*{
+    margin:0px;
+    padding: 0px;
+}
+.head{
+    width: 100%;
+    left: 0px;
+    top: 0px;
+    height: 150px;
+    position: absolute;
+}
+
+
+.menu{
+    background-color: rgba(136, 136, 228, 0.733);
+    width: 100%;
+    height:100px;
+    top: 250px;
+    position: absolute;
+    font-size: 20px;
+    color: brown;
+    
+
+}
+.home_menu{
+    left: 0px;
+    margin: 10px ;
+    float: left;
+    padding-left: 170px;
+    
+    
+}
+.service_menu{
+   margin: 10px ;
+   float: left;
+   padding-left: 150px;
+
+   
+   
+   
+}
+.cont_menu{
+    
+    margin: 10px ;
+    float: right;
+    padding-right: 130px;
+    
+
+
+}
+.about_menu{
+    
+    margin: 10px  ;
+    float: right;
+    padding-right: 160px;
+
+}
+.contact{
+    background-color: rgb(220, 245, 220);
+    width: 100%;
+    height: 280px;
+    top: 350px;
+    position: absolute;
+    font-size: 20px;
+
+}
+
+.left_contact{
+    width: 400px;
+    margin: 50px 50px;
+    float: left;
+    font-size: 20px;
+    text-align: justify;
+
+
+}
+.right_contact{
+    width: 400px;
+    margin: 50px 50px;
+    float: right; 
+    font-size: 20px;
+
+}
+
+
+.footer{
+    background-color: rgb(173, 173, 171);
+    height: 150px;
+    width: 100%;
+    left: 0px;
+    top: 620px;
+    position: absolute;
+    font-size: 20px;
+    text-align: center;
+}
